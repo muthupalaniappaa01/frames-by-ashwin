@@ -395,9 +395,9 @@ function Index() {
             eyebrow="Why Frames by Ashwin"
             title={
               <>
-                A production partner
+                From Precious Moments to
                 <br className="hidden md:block" />
-                <span className="text-background/60">built for how you work.</span>
+                <span className="text-background/60">Powerful Brand Stories.</span>
               </>
             }
             copy=""
@@ -434,24 +434,33 @@ function Index() {
             <div className="mt-8 space-y-5 text-base leading-relaxed text-slate md:text-lg">
               <Reveal delay={0.1}>
                 <p>
-                  Frames by Ashwin is a professional videography studio based in
-                  Ontario, Canada. We produce premium video content for
-                  businesses, corporate events, conferences, marketing campaigns
-                  and commercial brands.
+                  At Frames by Ashwin, we believe every moment has a story worth preserving. 
+                  Based in Ontario, Canada, we provide professional photography and videography 
+                  services that capture life's most meaningful memories—from weddings and family 
+                  celebrations to corporate events and commercial projects. We help businesses 
+                  create powerful visual content that leaves a lasting impression.
                 </p>
               </Reveal>
               <Reveal delay={0.15}>
                 <p>
-                  From cinematic brand films and commercial shoots to drone
-                  cinematography and professional live streaming, we help
-                  organizations tell their stories through exceptional motion.
+                  From elegant weddings and intimate family moments to corporate events and 
+                  commercial projects, our team combines creativity, technical expertise, and 
+                  attention to detail to deliver timeless visuals that you'll cherish for years to come.
                 </p>
               </Reveal>
               <Reveal delay={0.2}>
                 <p>
-                  Our approach combines creativity, technical excellence and
-                  professionalism to deliver content that leaves a lasting
-                  impression.
+                  Whether you're celebrating a once-in-a-lifetime milestone, 
+                  growing your business, or creating memories with your loved ones, 
+                  we're committed to delivering stunning visuals that you'll cherish 
+                  for years to come.
+                </p>
+              </Reveal>
+              <Reveal delay={0.25}>
+                <p>
+                  <strong>
+                      <em>At Frames by Ashwin, every frame tells a story—let us tell yours.</em>
+                  </strong>
                 </p>
               </Reveal>
             </div>
