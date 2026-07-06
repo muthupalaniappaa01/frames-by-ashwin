@@ -183,7 +183,7 @@ function Index() {
                 scrolled ? "text-foreground" : "text-white"
               }`}
             >
-              Frames by Ashwin
+              FRAMES BY ASHWIN INC.
             </span>
           </a>
           <nav className="hidden md:flex items-center gap-8">
