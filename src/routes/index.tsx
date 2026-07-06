@@ -493,9 +493,9 @@ function Index() {
             eyebrow="Testimonials"
             title={
               <>
-                Trusted for high-stakes
+                Trusted for Every Celebration
                 <br className="hidden md:block" />
-                <span className="text-slate">corporate productions.</span>
+                <span className="text-slate">and Every Story.</span>
               </>
             }
             copy=""
