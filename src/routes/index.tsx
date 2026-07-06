@@ -450,10 +450,8 @@ function Index() {
               </Reveal>
               <Reveal delay={0.2}>
                 <p>
-                  Whether you're celebrating a once-in-a-lifetime milestone, 
-                  growing your business, or creating memories with your loved ones, 
-                  we're committed to delivering stunning visuals that you'll cherish 
-                  for years to come.
+                  Whether personal or professional, every moment is crafted with care, creativity, 
+                  and precision—preserving your story with elegance and lasting impact.
                 </p>
               </Reveal>
               <Reveal delay={0.25}>
