@@ -98,9 +98,9 @@ const films = [
   { title: "Chef Supplies", tag: "Corporate Video", src: chefVideo },
   { title: "TAC", tag: "Corporate Video", src: tacVideo },
   { title: "Bio Organics", tag: "Corporate Video", src: bioVideo },
-  { title: "ModulX", tag: "Corporate Video", src: modulxVideo },
-  { title: "Solar", tag: "Corporate Video", src: solarVideo },
-  { title: "Party", tag: "Event", src: partyVideo },
+  { title: "ModdulX", tag: "Corporate Video", src: modulxVideo },
+  { title: "Solora Fresh", tag: "Corporate Video", src: solarVideo },
+  { title: "Party Warehouse", tag: "Corporate Video", src: partyVideo },
 ];
 
 const advantages = [
@@ -459,7 +459,7 @@ function Index() {
               <div className="mt-10 grid grid-cols-3 gap-6 border-t border-border pt-8">
                 {[
                   { k: "350+", v: "Clients worked with" },
-                  { k: "3+", v: "Years Experience" },
+                  { k: "8+", v: "Years Experience" },
                   { k: "4K", v: "Master Delivery" },
                 ].map((s) => (
                   <div key={s.v}>
